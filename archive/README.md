@@ -9,3 +9,5 @@
  - **older versions of the final dataset** 
    - *when the dataset is updated at a later month, the previous data set, that doesn't contain those months, 
    will be moved here*
+
+   - *the archive folder is used to store in-process data that you want to retain but is not part of the finished dataset.
